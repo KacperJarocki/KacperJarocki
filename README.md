@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate software engineer who's not scared to learn new skills</h3>
 
-- 🔭 I’m currently working on [Packet_tracer](https://github.com/KacperJarocki/packet_tracer)
+- 🔭 I’m currently working on [http-server](https://github.com/KacperJarocki/http-server)
 
 - 🌱 I’m currently learning **Spring boot, Angular, Rust and GoLang**
 
