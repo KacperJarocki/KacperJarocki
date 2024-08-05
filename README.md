@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [http-server](https://github.com/KacperJarocki/http-server)
 
-- 🌱 I’m currently learning **Spring boot, Angular, Rust and GoLang**
+- 🌱 I’m currently learning **Angular, Rust and GoLang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KacperJarocki](https://github.com/KacperJarocki)
 
