@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A passionate software engineer who's not scared to learn new skills</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on [todo](https://github.com/KacperJarocki/todo)
 
