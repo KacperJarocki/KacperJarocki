@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [todo](https://github.com/KacperJarocki/todo)
+- 🔭 I’m currently working on [coders-space](https://github.com/KacperJarocki/coders-space)
 
 - 🌱 I’m currently learning **Angular, Rust and GoLang**
 
