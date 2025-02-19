@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [coders-space](https://github.com/KacperJarocki/coders-space)
+- 🔭 I’m currently working on [crafting interpreters](https://github.com/KacperJarocki/crafting-interpreters)
 
-- 🌱 I’m currently learning **Angular, Rust and GoLang**
+- 🌱 I’m currently learning **Angular, C, Rust and GoLang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KacperJarocki](https://github.com/KacperJarocki)
 
